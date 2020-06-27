@@ -15,6 +15,7 @@ _add list here_
 
 ## Sorting
 _add list here_
+- [selection sort](selection_sort.c)
 
 ## Machine Learning
 _add list here_
