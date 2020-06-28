@@ -21,7 +21,7 @@
 * [Merge Sort](Merge_Sort.cpp)
 * [Randomized Quick Sort](Randomized_Quick_Sort.cpp)
 * [Quick Sort](Quick_Sort.cpp)
-
+* [Selection Sort](selection_sort.cpp)
 * [Insertion Sort](insertion.cpp)
 
 ## Graphs
